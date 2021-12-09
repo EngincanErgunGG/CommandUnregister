@@ -21,6 +21,7 @@ use;
 use KurSkyTR\UnregisterCommand;
 ```
 kullanım;
+
 komut ekleme:
 ```php
 UnregisterCommand::addUnregisterCommandList("commandName");
