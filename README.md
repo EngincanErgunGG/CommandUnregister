@@ -1,5 +1,7 @@
 # CommandUnregister
 
+MC:BE 1.18.0 API 4.0.0 ve Üstünde Çalışmaz.
+
 Sunucunuzdaki istenmeyen komutları sunucudan siler.
 
 ### Nasıl Silinecek Komut Eklerim?
