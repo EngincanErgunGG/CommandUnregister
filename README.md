@@ -2,17 +2,17 @@
 
 Sunucunuzdaki istenmeyen komutları sunucudan siler.
 
-###Nasıl Komut Eklerim?
+### Nasıl Komut Eklerim?
 
 Sunucunuzun dosyalarından plugin_data klasörüne girin. Ardından CommandUnregsiter klasörüne basın. Karşınıza commands.yml çıkacaktır. O dosyanın içinden silenecek komutları ayarlayabilirsiniz.
 
-###Düzenleme
+### Düzenleme
 ```yaml
 Commands:
  - "commandName"
 ```
 
-###Başka Bir Eklentiden Nasıl Kullanabilirim?
+### Başka Bir Eklentiden Nasıl Kullanabilirim?
 
 Evet, yanlış görmedin. Bu eklentiyi başka bir eklentiden yönetebilirsin. Kullanım:
 
