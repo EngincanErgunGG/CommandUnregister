@@ -20,13 +20,13 @@ use;
 ```php
 use KurSkyTR\UnregisterCommand;
 ```
-kullanım;
+Kullanım;
 
-komut ekleme:
+Listeye Komut Ekleme:
 ```php
 UnregisterCommand::addUnregisterCommandList("commandName");
 ```
-komut silme:
+Listeden Komut Silme:
 ```php
 UnregisterCommand::removeUnregisterCommandList("commandName");
 ```
